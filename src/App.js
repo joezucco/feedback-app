@@ -1,4 +1,4 @@
-import Header from './components/Header'
+import Header from './components/Header';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <h1>My App</h1>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
