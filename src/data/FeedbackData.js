@@ -14,11 +14,6 @@ const FeedbackData = [
     rating: 8,
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
   },
-  {
-    id: 4,
-    rating: 4,
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
-  },
 ];
 
 export default FeedbackData;
